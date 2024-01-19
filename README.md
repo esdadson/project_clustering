@@ -1,6 +1,8 @@
 # KMeans Clustering Project
 The KMeans clustering project, although trivial, is one of the first projects
-that I conducted in the Python programming language. This project enabled me
-to better understand object-oriented programming in Python.
+that I conducted in the Python programming language. 
 
-- project_clustering.ipynb {final clustering project for a python course}
+Learning outcomes:
+- Understand object-oriented programming in Python.
+- Be able to plot using matplotlib.
+- Use common packages: NumPy and Scikit-learn.
